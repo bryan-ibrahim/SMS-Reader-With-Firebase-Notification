@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
     Context c;
     String GMail = "Your email"; //replace with you GMail
     String GMailPass = "Your Gmail Password"; // replace with you GMail Password
-    String receiver = "Your email"; 
+    String receiver = "Your email";
 
     String messageData = "";
     String dateToday;
